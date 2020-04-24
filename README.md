@@ -37,3 +37,9 @@ Placeholder na zadania zaliczeniowe- Tutaj napisze konkretne wymagania po zajęc
 ## Zadanie pierwsze
 
 Proszę postawić aplikację na app engine, nazwa powinna być inna niż default. Aplikacja może być w dowolnym języku. Ma mieć input box. Użytkownik wpisuje tekst. Po kliknięciu submit powinna pojawić się informacja ile jest wielkich i ile jest małych liter.
+
+## Zadanie drugie
+
+Zrobić taki sam wykres jak tutaj:
+https://datastudio.google.com/reporting/1mE0EhFYqHXo5ZbbdpiP7Z_f_B5LEDsSg/page/024o
+(uwaga- są 3 strony, a na ostatniej stronie jest filtr)

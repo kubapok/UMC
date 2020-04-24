@@ -43,3 +43,10 @@ Proszę postawić aplikację na app engine, nazwa powinna być inna niż default
 Zrobić taki sam wykres jak tutaj:
 https://datastudio.google.com/reporting/1mE0EhFYqHXo5ZbbdpiP7Z_f_B5LEDsSg/page/024o
 (uwaga- są 3 strony, a na ostatniej stronie jest filtr)
+
+
+## Zadanie trzecie
+
+Korzystając z VISION API wytrenować model klasyfikacji na stworzonym przez siebie zbiorze zdjęć. Proszę bardzo uważać na koszty (możliwe, że dostaną państwo dodatwkoe kredyty na trening od googla ale na max 2-3 dni). Ze względu na koszty może być to tylko jeden trening (nie będę zwracał totalnie uwagę na jakośc modelu).
+I proszę wyłączać zdeployowany model jak to niepotrzebne.
+Proszę przedstawić mi na konsultacji zdeployowany model i przykład requestu do API ze zwracaną predykcją. Proszę odpalić delpoy modelu odpowiednio wcześniej przed konsultacjami (20 min?), bo trochę on trwa.

@@ -50,3 +50,12 @@ https://datastudio.google.com/reporting/1mE0EhFYqHXo5ZbbdpiP7Z_f_B5LEDsSg/page/0
 Korzystając z VISION API wytrenować model klasyfikacji na stworzonym przez siebie zbiorze zdjęć. Proszę bardzo uważać na koszty (możliwe, że dostaną państwo dodatwkoe kredyty na trening od googla ale na max 2-3 dni). Ze względu na koszty może być to tylko jeden trening (nie będę zwracał totalnie uwagę na jakośc modelu).
 I proszę wyłączać zdeployowany model jak to niepotrzebne.
 Proszę przedstawić mi na konsultacji zdeployowany model i przykład requestu do API ze zwracaną predykcją. Proszę odpalić delpoy modelu odpowiednio wcześniej przed konsultacjami (20 min?), bo trochę on trwa.
+
+
+## Zadanie czwarte
+
+- wrzucić jakiś zbiór danych do uczenia maszynowego na google storage (zbiór może być gotowy, ściągniety z internetu)
+- ściągnąć ten zbiór do google colab
+- wytrenować jakiś modelu uczenia maszynowego na tych danych za pomocą GPU lub TPU ( nie oceniam jakości modelu, ale zachęcam do prób osiągnięcia wysokiego wyniku)
+- zrobić wykres w formie obrazka odnośnie predykcji modelu (np confusion matrix albo cokolwiek innego) w colabie
+- wrzucić ten wykres do google storage (za pomocą komendy w colabie)

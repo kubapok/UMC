@@ -33,3 +33,7 @@ Jeżeli są potrzebne konsultacje przed oddaniem projektu- jestem dostępny. Pro
 
 # Zadania zaliczeniowe
 Placeholder na zadania zaliczeniowe- Tutaj napisze konkretne wymagania po zajęciach.
+
+## Zadanie pierwsze
+
+Proszę postawić aplikację na app engine, nazwa powinna być inna niż default. Aplikacja może być w dowolnym języku. Ma mieć input box. Użytkownik wpisuje tekst. Po kliknięciu submit powinna pojawić się informacja ile jest wielkich i ile jest małych liter.
